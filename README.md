@@ -1,8 +1,7 @@
 
 Ola Sou Lucas Vinicius
 
-Trabalho atualmente com instaçao de internet<br>
-Estudando programaçao atraves do site Alura cursos online com foco em javascript para backend com Node Js
+Sou desenvolvedor fullstack, possuo 3 anos de experiência. Trabalhei profissionalmente com reactjs no frontend e nodejs no backend, utilizando mongodb como banco de dados. Possuo conhecimento em sql porem em projetos própios. Trabalhei utilizando tambem azudevops, git, redux, jest, docker, entre outras tecnologias.
 
 ![Lucasvor25 GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasvor25&theme=synthwave&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvor25&layout=compact)](https://github.com/lucsavor25/github-readme-stats)
